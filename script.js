@@ -3,7 +3,8 @@ function aceptar() {
   sonido.play();
 
   setTimeout(() => {
-    alert("🥰✨ Yeiiii, entonces comemos juntas uwu ✨🥰");
+    alert("🥰✨ Yeiiii, entonces comemos juntes uwu ✨🥰");
   }, 600);
 }
+
 
